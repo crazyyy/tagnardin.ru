@@ -1,0 +1,24 @@
+@-webkit-keyframes animate-fade-in-left {
+   0% { -webkit-transform:  rotate(0deg) translate(-100px,0px); opacity: 0;  }
+   100% { -webkit-transform:  rotate(0deg); opacity: 1;  }
+}
+@-moz-keyframes animate-fade-in-left
+{
+   0% { -moz-transform:  rotate(0deg) translate(-100px,0px); opacity: 0;  }
+   100% { -moz-transform:  rotate(0deg); opacity: 1;  }
+}
+@-o-keyframes animate-fade-in-left
+{
+   0% { -o-transform:  rotate(0deg) translate(-100px,0px); opacity: 0;  }
+   100% { -o-transform:  rotate(0deg); opacity: 1;  }
+}
+@-ms-keyframes animate-fade-in-left
+{
+   0% { -ms-transform:  rotate(0deg) translate(-100px,0px); opacity: 0;  }
+   100% { -ms-transform:  rotate(0deg); opacity: 1;  }
+}
+@keyframes animate-fade-in-left
+{
+   0% { transform:  rotate(0deg) translate(-100px,0px); opacity: 0;  }
+   100% { transform:  rotate(0deg); opacity: 1;  }
+}
